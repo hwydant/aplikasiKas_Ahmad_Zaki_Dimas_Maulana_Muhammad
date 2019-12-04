@@ -1,0 +1,11 @@
+D:\VB\Tugas Praktikum 3 Kas Keluar Masuk\Tugas Praktikum 3 Kas Keluar Masuk\bin\Debug\Tugas Praktikum 3 Kas Keluar Masuk.exe.config
+D:\VB\Tugas Praktikum 3 Kas Keluar Masuk\Tugas Praktikum 3 Kas Keluar Masuk\bin\Debug\Tugas Praktikum 3 Kas Keluar Masuk.exe
+D:\VB\Tugas Praktikum 3 Kas Keluar Masuk\Tugas Praktikum 3 Kas Keluar Masuk\bin\Debug\Tugas Praktikum 3 Kas Keluar Masuk.pdb
+D:\VB\Tugas Praktikum 3 Kas Keluar Masuk\Tugas Praktikum 3 Kas Keluar Masuk\bin\Debug\Tugas Praktikum 3 Kas Keluar Masuk.xml
+D:\VB\Tugas Praktikum 3 Kas Keluar Masuk\Tugas Praktikum 3 Kas Keluar Masuk\obj\Debug\Tugas Praktikum 3 Kas Keluar Masuk.vbprojAssemblyReference.cache
+D:\VB\Tugas Praktikum 3 Kas Keluar Masuk\Tugas Praktikum 3 Kas Keluar Masuk\obj\Debug\Tugas_Praktikum_3_Kas_Keluar_Masuk.Form1.resources
+D:\VB\Tugas Praktikum 3 Kas Keluar Masuk\Tugas Praktikum 3 Kas Keluar Masuk\obj\Debug\Tugas_Praktikum_3_Kas_Keluar_Masuk.Resources.resources
+D:\VB\Tugas Praktikum 3 Kas Keluar Masuk\Tugas Praktikum 3 Kas Keluar Masuk\obj\Debug\Tugas Praktikum 3 Kas Keluar Masuk.vbproj.GenerateResource.cache
+D:\VB\Tugas Praktikum 3 Kas Keluar Masuk\Tugas Praktikum 3 Kas Keluar Masuk\obj\Debug\Tugas Praktikum 3 Kas Keluar Masuk.exe
+D:\VB\Tugas Praktikum 3 Kas Keluar Masuk\Tugas Praktikum 3 Kas Keluar Masuk\obj\Debug\Tugas Praktikum 3 Kas Keluar Masuk.xml
+D:\VB\Tugas Praktikum 3 Kas Keluar Masuk\Tugas Praktikum 3 Kas Keluar Masuk\obj\Debug\Tugas Praktikum 3 Kas Keluar Masuk.pdb
